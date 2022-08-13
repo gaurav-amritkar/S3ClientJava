@@ -1,0 +1,5 @@
+location_alias,millenium_location_id,millenium_waiting_room_id,soarian_location_id,soarian_waiting_room_id,source_system
+1,11,11,11,11,soarian
+2,22,22,22,22,millenium
+3,33,33,33,33,soarian
+4,44,44,44,44,millenium
